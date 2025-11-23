@@ -32,6 +32,7 @@ public WebDriver driver;
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\\\HP\\Downloads\\chrome exe for Selenium\\chromedriver.exe");
 		driver=new ChromeDriver();
 		System.out.println("Twtsiindfddxfffdddddddddddd");
+		System.out.println("dgdgdg");
 	}
 	
 	@BeforeTest
