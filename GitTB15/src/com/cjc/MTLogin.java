@@ -40,7 +40,7 @@ public WebDriver driver;
 	{
 		System.out.println("OPen Url in BeforeTest");
 		driver.get("https://demo.guru99.com/test/newtours/");
-		System.out.println("dgdgdg");
+		System.out.println("12345678");
 	}
 	
 	@BeforeClass
